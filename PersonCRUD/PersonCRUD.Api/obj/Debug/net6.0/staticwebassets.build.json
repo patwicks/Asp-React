@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PaVA4rBuxT4TcYNChDoZr/5cOSsPeuRLLWx927Ifln0=",
+  "Source": "PersonCRUD.Api",
+  "BasePath": "_content/PersonCRUD.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
